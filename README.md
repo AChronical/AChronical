@@ -64,4 +64,4 @@ The thread through everything I build is the same. I find the thing that stops s
 
 ## say hi
 
-I'm happy to talk about interactive tech, creative tools, VR, or co-op opportunities. The easiest way to reach me is [Email](veisi@sheridancollege.ca).
+I'm happy to talk about interactive tech, creative tools, VR, or co-op opportunities. The easiest way to reach me is [Email](mailto:veisi@://sheridancollege.ca).
