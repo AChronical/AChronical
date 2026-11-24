@@ -46,37 +46,6 @@ The thread through everything I build is the same. I find the thing that stops s
 
 ---
 
-## things I've built
-
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/AChronical/Chimeral-Theater"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AChronical&repo=Chimeral-Theater&bg_color=0d1117&title_color=7b5cff&text_color=c9d1d9&icon_color=7b5cff&border_color=30363d" alt="Chimeral Theater" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/AChronical/UniRes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AChronical&repo=UniRes&bg_color=0d1117&title_color=7b5cff&text_color=c9d1d9&icon_color=7b5cff&border_color=30363d" alt="UniRes" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/AChronical/ROA-WCM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AChronical&repo=ROA-WCM&bg_color=0d1117&title_color=7b5cff&text_color=c9d1d9&icon_color=7b5cff&border_color=30363d" alt="ROA-WCM" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/AChronical/OpenIPD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AChronical&repo=OpenIPD&bg_color=0d1117&title_color=7b5cff&text_color=c9d1d9&icon_color=7b5cff&border_color=30363d" alt="OpenIPD" /></a>
-</td>
-</tr>
-</table>
-
-<!--
-If the cards ever show an error (the free server is rate-limited sometimes), swap in plain links:
-- [Chimeral Theater](https://github.com/AChronical/Chimeral-Theater)
-- [UniRes](https://github.com/AChronical/UniRes)
-- [ROA-WCM](https://github.com/AChronical/ROA-WCM)
-- [OpenIPD](https://github.com/AChronical/OpenIPD)
--->
-
----
-
 ## toolbox
 
 <div align="center">
