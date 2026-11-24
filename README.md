@@ -2,7 +2,7 @@
 <tr>
 <td width="42%" valign="middle" align="center">
 
-<img src="assets/VR.gif" width="300" alt="Line-art animation of a person in a VR headset holding two controllers" />
+<img src="VR.gif" width="300" alt="Line-art animation of a person in a VR headset holding two controllers" />
 
 </td>
 <td valign="middle">
